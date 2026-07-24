@@ -1,45 +1,46 @@
 class Solution {
-    public int firstoccurence(int[] nums,int target){
-        int start=0;
-        int end=nums.length-1;
+    public int LeftSearch(int []nums, int target){
         int ans=-1;
-        while(start<=end){
-            int mid=start+(end-start)/2;
+        int left=0;
+        int right=nums.length-1;
+        while(left<=right){
+            int mid=(left)+(right-left)/2;
             if(nums[mid]==target){
                 ans=mid;
-                end=mid-1;//keep searching on the left
+                right=mid-1;
             }
             else if(nums[mid]<target){
-                start=mid+1;
+                left=mid+1;
             }
             else{
-                end=mid-1;
+                right=mid-1;
             }
         }
         return ans;
     } 
-    public int lastoccurence(int[] nums,int target){
-        int start=0;
-        int end=nums.length-1;
+    public int RightSearch(int []nums, int target){
         int ans=-1;
-        while(start<=end){
-            int mid=start+(end-start)/2;
+        int left=0;
+        int right=nums.length-1;
+        while(left<=right){
+            int mid=(left)+(right-left)/2;
             if(nums[mid]==target){
                 ans=mid;
-                start=mid+1;//keep searching on the right
+                left=mid+1;
             }
             else if(nums[mid]<target){
-                start=mid+1;
+                left=mid+1;
             }
             else{
-                end=mid-1;
+                right=mid-1;
             }
         }
         return ans;
     }
     public int[] searchRange(int[] nums, int target) {
-        int first_occurence=firstoccurence(nums,target);
-        int last_occurencce=lastoccurence(nums,target);
-        return new int[] {first_occurence,last_occurencce};
+
+        int leftindex=LeftSearch(nums,target);
+        int rightindex=RightSearch(nums,target);
+        return new int[] {leftindex,rightindex};
     }
 }
