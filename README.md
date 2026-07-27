@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0523-continuous-subarray-sum) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0240-search-a-2d-matrix-ii) |
 | [1572-matrix-diagonal-sum](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1572-matrix-diagonal-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/2965-find-missing-and-repeated-values) |
 ## Dynamic Programming
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0240-search-a-2d-matrix-ii) |
 ## Counting
 |  |
 | ------- |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0875-koko-eating-bananas) |
