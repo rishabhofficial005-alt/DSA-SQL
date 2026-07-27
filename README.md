@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1552-magnetic-force-between-two-balls](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1552-magnetic-force-between-two-balls) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Union-Find
 |  |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1552-magnetic-force-between-two-balls](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1552-magnetic-force-between-two-balls) |
 <!---LeetCode Topics End-->
