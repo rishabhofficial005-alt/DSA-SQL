@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0560-subarray-sum-equals-k) |
+| [0713-subarray-product-less-than-k](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1004-max-consecutive-ones-iii) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0643-maximum-average-subarray-i) |
+| [0713-subarray-product-less-than-k](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1004-max-consecutive-ones-iii) |
