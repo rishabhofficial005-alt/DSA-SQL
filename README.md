@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0875-koko-eating-bananas) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0054-spiral-matrix) |
+| [0735-asteroid-collision](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0735-asteroid-collision) |
 ## Sliding Window
 |  |
 | ------- |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
