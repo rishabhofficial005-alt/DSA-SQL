@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0162-find-peak-element) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0227-basic-calculator-ii) |
 | [0523-continuous-subarray-sum](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0523-continuous-subarray-sum) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0227-basic-calculator-ii) |
 | [0496-next-greater-element-i](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0735-asteroid-collision) |
