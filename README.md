@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0125-valid-palindrome) |
+| [0224-basic-calculator](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0344-reverse-string) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0189-rotate-array) |
+| [0224-basic-calculator](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0227-basic-calculator-ii) |
 | [0523-continuous-subarray-sum](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0523-continuous-subarray-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/2965-find-missing-and-repeated-values) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0496-next-greater-element-i) |
@@ -268,5 +271,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
