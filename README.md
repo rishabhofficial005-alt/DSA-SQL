@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0844-backspace-string-compare) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Sorting
 |  |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0844-backspace-string-compare) |
 ## Matrix
 |  |
 | ------- |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0844-backspace-string-compare) |
 ## Sliding Window
 |  |
 | ------- |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
