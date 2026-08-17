@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1314-matrix-block-sum](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1314-matrix-block-sum) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1552-magnetic-force-between-two-balls) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1544-make-the-string-great](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1544-make-the-string-great) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
@@ -315,4 +317,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0232-implement-queue-using-stacks) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1381-design-a-stack-with-increment-operation) |
 <!---LeetCode Topics End-->
