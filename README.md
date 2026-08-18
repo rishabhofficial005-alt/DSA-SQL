@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0402-remove-k-digits) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0647-palindromic-substrings) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0402-remove-k-digits) |
 | [0680-valid-palindrome-ii](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Math
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0739-daily-temperatures) |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0739-daily-temperatures) |
 ## Queue
