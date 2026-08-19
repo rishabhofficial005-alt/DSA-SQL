@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0523-continuous-subarray-sum) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0523-continuous-subarray-sum) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0347-top-k-frequent-elements) |
 | [1552-magnetic-force-between-two-balls](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1552-magnetic-force-between-two-balls) |
 ## Prefix Sum
 |  |
@@ -237,11 +240,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0918-maximum-sum-circular-subarray) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -332,4 +337,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0232-implement-queue-using-stacks) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1381-design-a-stack-with-increment-operation) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
