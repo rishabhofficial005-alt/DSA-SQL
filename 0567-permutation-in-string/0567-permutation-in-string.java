@@ -1,36 +1,34 @@
 class Solution {
-    private boolean Permutation(int []freq, int[] window_freq){
+    public boolean CheckPermutation(int []windowfreq, int[] freq1){
         for(int i=0;i<26;i++){
-            if(freq[i]!=window_freq[i]){
+            if(windowfreq[i] != freq1[i]){
                 return false;
             }
         }
         return true;
     }
     public boolean checkInclusion(String s1, String s2) {
-        int freq1[]=new int[26];
+        int windowfreq[]=new int [26];
+        
+        int windowlength=s1.length();
         for(int i=0;i<s1.length();i++){
-            freq1[s1.charAt(i)-'a']++;
+            windowfreq[s1.charAt(i)-'a']++;
         }
-       
-        int window_length=s1.length();
         for(int i=0;i<s2.length();i++){
-            int window_index=0;
             int index=i;
-            int windowfreq1[]=new int[26];
-            while(index<s2.length() && window_index<window_length){
-                windowfreq1[s2.charAt(index)-'a']++;
-                window_index++;
+            int windowindex=0;
+            int freq1[]=new int[26];
+            while(index<s2.length() && windowindex<windowlength){
+                freq1[s2.charAt(index)-'a']++;
+                windowindex++;
                 index++;
             }
-            if(Permutation(freq1, windowfreq1)){
+            if(CheckPermutation(windowfreq,freq1)){
                 return true;
             }
-        }
-        
-         return false;
-         
+            
 
         }
-       
+        return false;
     }
+}
