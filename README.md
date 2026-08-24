@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0152-maximum-product-subarray) |
+| [0509-fibonacci-number](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0647-palindromic-substrings) |
 | [0918-maximum-sum-circular-subarray](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0918-maximum-sum-circular-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0227-basic-calculator-ii) |
+| [0509-fibonacci-number](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0523-continuous-subarray-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0394-decode-string) |
+| [0509-fibonacci-number](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0509-fibonacci-number) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -357,4 +360,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0347-top-k-frequent-elements) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
