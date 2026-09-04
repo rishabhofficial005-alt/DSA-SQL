@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0485-max-consecutive-ones) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0451-sort-characters-by-frequency) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0451-sort-characters-by-frequency) |
 | [1552-magnetic-force-between-two-balls](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1552-magnetic-force-between-two-balls) |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0523-continuous-subarray-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/2965-find-missing-and-repeated-values) |
@@ -274,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -403,4 +408,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
