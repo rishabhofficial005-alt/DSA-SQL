@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0227-basic-calculator-ii) |
+| [0231-power-of-two](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0523-continuous-subarray-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/2965-find-missing-and-repeated-values) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0509-fibonacci-number) |
 ## Bracket Sequences
@@ -395,4 +397,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-invalid-tweets](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1934-confirmation-rate) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
