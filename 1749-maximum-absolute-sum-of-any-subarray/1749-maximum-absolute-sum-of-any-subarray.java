@@ -1,21 +1,23 @@
 class Solution {
     public int maxAbsoluteSum(int[] nums) {
-        int possum=0;
-        int negsum=0;
-        int maxsum=Integer.MIN_VALUE;
-        int minsum=Integer.MAX_VALUE;
+        int total_sum=0;
+        int min_sum=Integer.MAX_VALUE;
+        int max_sum=Integer.MIN_VALUE;
+        int cuurent_1=0;
+        int cuurent_2=0;
         for(int i=0;i<nums.length;i++){
-            possum+=nums[i];
-            negsum+=nums[i];
-            maxsum=Math.max(possum,maxsum);
-            minsum=Math.min(negsum,minsum);
-            if(possum<0){
-                possum=0;
+            cuurent_1+=nums[i];
+            cuurent_2+=nums[i];
+            max_sum=Math.max(max_sum,cuurent_1);
+            min_sum=Math.min(min_sum,cuurent_2);
+            if(cuurent_1<0){
+                cuurent_1=0;
             }
-            if(negsum>0){
-                negsum=0;
+            if(cuurent_2>0){
+                cuurent_2=0;
             }
+
         }
-        return Math.max(maxsum,Math.abs(minsum));
+        return Math.max(Math.abs(max_sum),Math.abs(min_sum));
     }
 }
