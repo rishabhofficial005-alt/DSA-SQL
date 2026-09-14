@@ -1,7 +1,8 @@
 class Solution {
     public int totalFruit(int[] fruits) {
         int left=0;
-        int ans=0;
+        int maxlen=Integer.MIN_VALUE;
+
         HashMap<Integer,Integer> map=new HashMap<>();
         for(int right=0;right<fruits.length;right++){
             map.put(fruits[right],map.getOrDefault(fruits[right],0)+1);
@@ -12,8 +13,8 @@ class Solution {
                 }
                 left++;
             }
-            ans=Math.max(ans,right-left+1);
+            maxlen=Math.max(maxlen,right-left+1);
         }
-        return ans;
+        return maxlen;
     }
 }
