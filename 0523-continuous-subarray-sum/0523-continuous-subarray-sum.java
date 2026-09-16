@@ -1,20 +1,22 @@
 class Solution {
     public boolean checkSubarraySum(int[] nums, int k) {
-        int preffix_sum=0;
+        int n=nums.length;
         HashMap<Integer,Integer> map=new HashMap<>();
+        int preffix_sum=0;
         map.put(0,-1);
         for(int i=0;i<nums.length;i++){
             preffix_sum+=nums[i];
-            int remainder=preffix_sum%k;
-            if(map.containsKey(remainder)){
-                if(i-map.get(remainder)>=2){
+            int rem=preffix_sum%k;
+            if(map.containsKey(rem)){
+                if(i-map.get(rem)>=2){
                     return true;
                 }
-            }    
-                else{
-                map.put(remainder,i);
-                }
-            
+            }
+            else{
+                map.put(rem,i);
+            }
+          
+        
         }
         return false;
     }
