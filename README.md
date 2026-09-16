@@ -426,4 +426,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0268-missing-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
