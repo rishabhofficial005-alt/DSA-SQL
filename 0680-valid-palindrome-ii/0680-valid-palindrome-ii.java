@@ -4,24 +4,23 @@ class Solution {
         int right=s.length()-1;
         while(left<right){
             if(s.charAt(left)!=s.charAt(right)){
-                return validPalindromicString(s,left+1,right) ||
-                       validPalindromicString(s,left,right-1);
+                return validPalindrome2(s,left+1,right) || validPalindrome2(s,left,right-1);
             }
             left++;
             right--;
+            
         }
         return true;
     }
-    public boolean validPalindromicString(String s,int left,int right){
-        int l=left;
-        int r=right;
-        while(l<r){
-            if(s.charAt(l)!=s.charAt(r)){
-                return false;
+        public boolean validPalindrome2(String s,int left,int right){
+            while(left<right){
+                if(s.charAt(left)!=s.charAt(right)){
+                    return false;
+                }
+                left++;
+                right--;
             }
-            l++;
-            r--;
+            return true;
         }
-        return true;
-    }
+    
 }
