@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1544-make-the-string-great](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1544-make-the-string-great) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Sorting
 |  |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0844-backspace-string-compare) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Sliding Window
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1544-make-the-string-great](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1544-make-the-string-great) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
