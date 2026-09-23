@@ -438,4 +438,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0523-continuous-subarray-sum) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
