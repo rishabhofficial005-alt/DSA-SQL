@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0876-middle-of-the-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Matrix
 |  |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1381-design-a-stack-with-increment-operation](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1544-make-the-string-great](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1544-make-the-string-great) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0876-middle-of-the-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
