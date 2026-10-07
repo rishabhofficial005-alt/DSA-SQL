@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0523-continuous-subarray-sum) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0496-next-greater-element-i) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0451-sort-characters-by-frequency) |
 | [1552-magnetic-force-between-two-balls](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1552-magnetic-force-between-two-balls) |
 ## Prefix Sum
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0680-valid-palindrome-ii) |
@@ -313,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0713-subarray-product-less-than-k) |
