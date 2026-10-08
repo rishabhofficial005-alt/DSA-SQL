@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0035-search-insert-position) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
