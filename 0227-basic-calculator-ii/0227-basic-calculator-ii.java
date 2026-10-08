@@ -1,8 +1,8 @@
 class Solution {
     public int calculate(String s) {
-        Stack<Integer> stack=new Stack<>();
-        int num=0;
         char op='+';
+        int num=0;
+        Stack<Integer> st=new Stack<>();
         for(int i=0;i<=s.length();i++){
             char ch;
             if(i==s.length()){
@@ -14,27 +14,29 @@ class Solution {
             if(Character.isDigit(ch)){
                 num=num*10+(ch-'0');
             }
-            else if(ch != ' '){
+            else if(ch != ' ') {
                 if(op == '+'){
-                    stack.push(num);
+                    st.push(num);
                 }
                 else if(op == '-'){
-                    stack.push(-num);
+                    st.push(-num);
                 }
                 else if(op == '*'){
-                    stack.push(stack.pop()*num);
+                    st.push(st.pop()*num);
                 }
-                else if(op == '/'){
-                    stack.push(stack.pop()/num);
+                else if(op== '/'){
+                    st.push(st.pop()/num);
                 }
                 op=ch;
                 num=0;
             }
+           
         }
         int ans=0;
-        while(!stack.isEmpty()){
-            ans+=stack.pop();
+        while(!st.isEmpty()){
+            ans+=st.pop();
         }
         return ans;
+        
     }
 }
