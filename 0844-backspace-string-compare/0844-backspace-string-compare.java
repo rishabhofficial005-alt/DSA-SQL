@@ -2,34 +2,36 @@ class Solution {
     public boolean backspaceCompare(String s, String t) {
         int i=s.length()-1;
         int j=t.length()-1;
-        int skipsS=0;
-        int skipsT=0;
+        int skips=0;
+        int skipt=0;
         while(i>=0 || j>=0){
+            //Reaching the valid character
             while(i>=0){
-                if(s.charAt(i)=='#'){
-                    skipsS++;
+                if(s.charAt(i) =='#'){
+                    skips++;
                     i--;
                 }
-                else if(skipsS>0){
-                    skipsS--;
+                else if(skips>0){
+                    skips--;
                     i--;
                 }
                 else{
                     break;
                 }
             }
-            while(j>=0){
-                if(t.charAt(j)=='#'){
-                    skipsT++;
+             while(j>=0){
+                if(t.charAt(j) =='#'){
+                    skipt++;
                     j--;
                 }
-                else if(skipsT>0){
-                    skipsT--;
+                else if(skipt>0){
+                    skipt--;
                     j--;
                 }
                 else{
                     break;
                 }
+            
             }
             if(i>=0 && j>=0){
                 if(s.charAt(i)!=t.charAt(j)){
@@ -45,6 +47,6 @@ class Solution {
             j--;
         }
         return true;
-
+        
     }
 }
