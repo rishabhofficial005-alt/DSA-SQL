@@ -5,16 +5,17 @@ class Solution {
             if(s.equals("+") || s.equals("-") || s.equals("*") || s.equals("/")){
                 int b=st.pop();
                 int a=st.pop();
-                if(s.equals("+")) st.push(a+b);
-                else if(s.equals("-")) st.push(a-b);
-                else if(s.equals("*")) st.push(a*b);
-                else st.push(a/b);
+                if(s.equals("+")) st.push( a + b );
+                else if(s.equals("-")) st.push(a - b);
+                else if(s.equals("*")) st.push(a * b);
+                else st.push(a / b);
             }
             else{
-                st.push(Integer.parseInt(s));
+                int num=Integer.parseInt(s);
+                st.push(num);
             }
+            
         }
-        return st.pop();
-        
+        return st.peek();
     }
 }
