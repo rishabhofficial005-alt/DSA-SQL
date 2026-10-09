@@ -1,30 +1,29 @@
 class Solution {
-    public boolean Permutation(int []freq1,int []freq2){
+    public boolean isPalindrome(int[] freq1,int[] freq){
         for(int i=0;i<26;i++){
-            if(freq1[i]!=freq2[i]){
+            if(freq1[i]!=freq[i]){
                 return false;
             }
         }
         return true;
     }
     public boolean checkInclusion(String s1, String s2) {
-        int window_length=s1.length();
         int freq1[]=new int[26];
-       
         for(int i=0;i<s1.length();i++){
             freq1[s1.charAt(i)-'a']++;
         }
+        int window_length=s1.length();
         for(int i=0;i<s2.length();i++){
-            int minindex=i;
+            int index=i;
             int windowindex=0;
-            int freq2[]=new int[26];
-            while(minindex<s2.length() && windowindex<window_length){
-                freq2[s2.charAt(minindex)-'a']++;
-                minindex++;
+            int freq[]=new int[26];
+            while(index<s2.length() && windowindex<window_length){
+                freq[s2.charAt(index)-'a']++;
+                index++;
                 windowindex++;
             }
-            if(Permutation(freq1,freq2)){
-               return true;
+            if(isPalindrome(freq1,freq)){
+                return true;
             }
         }
         return false;
