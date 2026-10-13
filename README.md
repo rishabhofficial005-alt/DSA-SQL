@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0560-subarray-sum-equals-k) |
+| [0622-design-circular-queue](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0713-subarray-product-less-than-k) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0622-design-circular-queue) |
 | [0918-maximum-sum-circular-subarray](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0622-design-circular-queue) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Heap (Priority Queue)
 |  |
@@ -503,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0328-odd-even-linked-list) |
+| [0622-design-circular-queue](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0876-middle-of-the-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
