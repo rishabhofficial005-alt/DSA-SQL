@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1552-magnetic-force-between-two-balls) |
 | [1572-matrix-diagonal-sum](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1572-matrix-diagonal-sum) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2073-time-needed-to-buy-tickets](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0523-continuous-subarray-sum) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2965-find-missing-and-repeated-values](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0844-backspace-string-compare) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2073-time-needed-to-buy-tickets](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -380,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0622-design-circular-queue) |
 | [0918-maximum-sum-circular-subarray](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0918-maximum-sum-circular-subarray) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/2073-time-needed-to-buy-tickets) |
 ## Monotonic Queue
 |  |
@@ -403,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0509-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Bracket Sequences
 |  |
 | ------- |
