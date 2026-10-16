@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1572-matrix-diagonal-sum) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [2073-time-needed-to-buy-tickets](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/2965-find-missing-and-repeated-values) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0844-backspace-string-compare) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2073-time-needed-to-buy-tickets](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Sliding Window
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0622-design-circular-queue) |
 | [0918-maximum-sum-circular-subarray](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0918-maximum-sum-circular-subarray) |
+| [2073-time-needed-to-buy-tickets](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/2073-time-needed-to-buy-tickets) |
 ## Monotonic Queue
 |  |
 | ------- |
