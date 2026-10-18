@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0053-maximum-subarray) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0070-climbing-stairs) |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0155-min-stack) |
@@ -371,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0496-next-greater-element-i) |
