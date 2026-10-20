@@ -546,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
@@ -556,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
@@ -567,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
@@ -576,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0111-minimum-depth-of-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
