@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0540-single-element-in-a-sorted-array) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0152-maximum-product-subarray) |
+| [0494-target-sum](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0647-palindromic-substrings) |
 | [0918-maximum-sum-circular-subarray](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0918-maximum-sum-circular-subarray) |
@@ -648,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0113-path-sum-ii) |
+| [0494-target-sum](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0494-target-sum) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -658,4 +661,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
