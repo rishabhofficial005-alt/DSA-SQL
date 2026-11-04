@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0191-number-of-1-bits) |
@@ -559,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0112-path-sum) |
@@ -607,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0112-path-sum) |
@@ -678,4 +682,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0494-target-sum) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
