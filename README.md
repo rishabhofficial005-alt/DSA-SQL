@@ -577,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0993-cousins-in-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Depth-First Search
@@ -627,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0993-cousins-in-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Breadth-First Search
@@ -689,4 +691,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
