@@ -14,7 +14,8 @@
  * }
  */
 class BSTIterator {
-    Stack<TreeNode> st =new Stack<>();
+    Stack<TreeNode> st=new Stack<>();
+
     public BSTIterator(TreeNode root) {
         pushLeft(root);
         
@@ -32,6 +33,7 @@ class BSTIterator {
             pushLeft(node.right);
         }
         return node.val;
+        
     }
     
     public boolean hasNext() {
