@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0451-sort-characters-by-frequency) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1552-magnetic-force-between-two-balls](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1552-magnetic-force-between-two-balls) |
 ## Prefix Sum
 |  |
@@ -591,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0993-cousins-in-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -616,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0662-maximum-width-of-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0993-cousins-in-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -648,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0993-cousins-in-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -714,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/rishabhofficial005-alt/Data-Structures/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Iterator
 |  |
 | ------- |
